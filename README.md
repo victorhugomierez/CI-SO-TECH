@@ -3,7 +3,7 @@
 Este repositorio contiene los trabajos prácticos y cuestionarios de la asignatura **Ciencia, Sociedad y Tecnología**, centrados en los fundamentos del conocimiento científico y su aplicación lógica en la formación de un Analista de Sistemas.
 
 ## 📌 Objetivo del Repositorio
-Explorar cómo las estructuras del pensamiento científico (Klimovsky, Popper, Semmelweis) sirven de base para el diagnóstico de problemas, el testeo de hipótesis y la construcción de sistemas robustos y confiables.
+Explorar cómo las estructuras del pensamiento científico  sirven de base para el diagnóstico de problemas, el testeo de hipótesis y la construcción de sistemas robustos y confiables.
 
 ---
 
