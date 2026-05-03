@@ -49,4 +49,4 @@ Como futuro Analista de Sistemas, estas teorías se traducen en competencias pro
 ---
 
 ## 👤 Autor
-* **Tu Nombre** - *Estudiante de Análisis de Sistemas*
+* **Victor Hugo Mierez** - *Estudiante de Análisis de Sistemas*
